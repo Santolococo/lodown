@@ -1,6 +1,6 @@
 {
   "name": "lodown-Santolococo",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An npm functional programming library project",
   "main": "index.js",
   "directories": {
